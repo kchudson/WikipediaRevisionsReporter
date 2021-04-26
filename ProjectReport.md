@@ -1,6 +1,6 @@
 # Project Report
 
-(Put your name here)
+Kyler Hudson
 
 ## Markdown Tips
 
@@ -16,9 +16,9 @@ Please remove this subsection before submitting your report.
 
 ## Challenge #1 Complete
 
-(Explain your solution to Challenge #1. If it is not complete, change
-the subsection title above to "Incomplete" and explain how far you got
-and where you got stuck.)
+Replaced the FakeQueryEngine with the WikipediaQueryEngine. Using the
+Wikipedia query in order to establish a proper connection to Wikipedia
+instead of a simulated one.
 
 ## Challenge #2 Complete
 
