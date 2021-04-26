@@ -22,9 +22,10 @@ instead of a simulated one.
 
 ## Challenge #2 Complete
 
-(Explain your solution to Challenge #2. If it is not complete, change
-the subsection title above to "Incomplete" and explain how far you got
-and where you got stuck.)
+First, I started by creating an interface which I named "InterfaceFormatter".
+I then created the "FormatterModule" class which works the same the "QueryEngineModule".
+Then using the @Inject putting it into "WikipediaAnalyzer". Finally, to format the datetime
+I used .replace to replace T and Z with something more readable to the user
 
 ## Challenge #3 Complete
 
